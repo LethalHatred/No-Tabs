@@ -8,8 +8,8 @@
     "REQUIRE_NAV_PATCH"
   ],
   "inject": {
-    "bigpicture.css": [
-      "shared"
+    "shared.css": [
+      "bigpicture"
     ]
   },
   "id": "1f13929d-cb5b-4ab9-985f-a69504e055fe"
