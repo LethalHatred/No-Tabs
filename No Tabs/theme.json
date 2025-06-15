@@ -1,0 +1,16 @@
+{
+  "name": "No Tabs",
+  "display_name": "No Tabs",
+  "version": "v1.0",
+  "author": "Lethal Hatred",
+  "manifest_version": 9,
+  "flags": [
+    "REQUIRE_NAV_PATCH"
+  ],
+  "inject": {
+    "bigpicture.css": [
+      "shared"
+    ]
+  },
+  "id": "1f13929d-cb5b-4ab9-985f-a69504e055fe"
+}
