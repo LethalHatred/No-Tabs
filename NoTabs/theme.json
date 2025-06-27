@@ -2,7 +2,7 @@
   "name": "No Tabs",
   "display_name": "No Tabs",
   "version": "v1.0",
-  "author": "Lethal Hatred",
+  "author": "RConsis",
   "manifest_version": 9,
   "flags": [
     "REQUIRE_NAV_PATCH"
